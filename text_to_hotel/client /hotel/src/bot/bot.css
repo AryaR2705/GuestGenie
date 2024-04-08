@@ -1,0 +1,114 @@
+/* Dark Theme */
+body {
+  background-color: #1a1a1a;
+  color: #ffffff !important;
+  font-family: 'Arial', sans-serif;
+}
+
+.combined-container {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  gap: 150px; /* Increased gap between the items */
+  background-color: #2d2d2d;
+  color: #ffffff;
+}
+
+/* Media query for screens wider than 600px */
+@media (min-width: 600px) {
+  .combined-container {
+    flex-direction: row;
+  }
+
+  .bot-container {
+    margin-left: 20px;
+  }
+
+  .hotel-list {
+    flex-basis: 300px;
+  }
+}
+
+/* Conversation Window Styling */
+.chat-window {
+  background-color: #333333;
+  border-radius: 5px;
+  padding: 10px;
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+.message {
+  margin-bottom: 10px;
+}
+
+.user-message {
+  color: #2196f3;
+}
+
+.bot-message {
+  color: #4caf50;
+}
+
+/* Input Area Styling */
+.input-area {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.predict-button {
+  background-color: #4caf50;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 6s ease; /* Add transition effect to background color */
+}
+
+/* Hover effect for the predict button */
+.predict-button:hover {
+  background-color: #45a049;
+}
+
+.input-text {
+  height: 120px;
+  padding: 10px;
+  resize: none;
+  font-size: 14px;
+}
+
+.error-message {
+  color: #ff6347;
+  margin-top: 10px;
+}
+
+/* Style for the hotel list */
+.hotel-list {
+  background-color: #333333;
+  padding: 20px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Style for each hotel */
+li {
+  background-color: #555555;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 8px;
+  font-size: 14px;
+}

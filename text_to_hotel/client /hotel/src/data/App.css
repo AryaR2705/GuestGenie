@@ -1,0 +1,27 @@
+/* app.css */
+
+.database-container {
+  margin-top: 20px;
+}
+
+.database-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+.hero {
+  /* Add styles for the tbody with class 'hero' */
+  background-color: #e6f7ff;
+}
+

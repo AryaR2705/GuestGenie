@@ -1,0 +1,75 @@
+/* index.css */
+
+.everything {
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f4 !important;
+  color: #000000; /* Set the text color to black */
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #333;
+}
+
+button {
+  background-color: #4caf50;
+  color: #000000; /* Set the text color to black */
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+p {
+  margin: 10px 0;
+}
+
+select,
+input[type='number'],
+input[type='text'] {
+  padding: 8px;
+}
+
+textarea {
+
+  padding: 10px;
+}
+
+/* Result Section Styling */
+.result-section {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+  color: #000000; /* Set the text color to black */
+}
+
+/* Database Section Styling */
+.database-section {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+  color: #000000; /* Set the text color to black */
+}
+
+/* Styling for DeleteButton component */
+.delete-button {
+  background-color: #ff6347;
+}
+
+.delete-button:hover {
+  background-color: #ff4837;
+  color: #fff;
+}
+
+.jin {
+  color: black;
+}

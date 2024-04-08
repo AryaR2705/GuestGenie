@@ -1,0 +1,29 @@
+/* Add these styles to your existing CSS */
+
+.database-container {
+    text-align: center;
+}
+
+.database-container h2 {
+    margin-bottom: 10px;
+}
+
+.database-table {
+    width: 100%;
+    overflow: auto; /* Enable both horizontal and vertical scrolling if needed */
+}
+
+.database-tbody {
+    max-height: 300px; /* Adjust the height as needed */
+    overflow-y: auto; /* Enable vertical scrolling */
+}
+
+.database-table th, .database-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.database-table th {
+    background-color: #f2f2f2;
+}
