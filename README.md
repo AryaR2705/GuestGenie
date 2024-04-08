@@ -6,8 +6,11 @@ GuesGenie is a dynamic hotel management system integrated with :
 -SQLLite3 to store database
 
 GuesGenie consist of 2 backends and 1 frontend
+
 backend_1 - Flask where the bot is integrated 
+
 backend_2 - NodeJS where the RegEx is present 
+
 fronend - to visualize the site
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
