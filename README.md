@@ -1,8 +1,11 @@
 # GuestGenie
 
 GuesGenie is a dynamic hotel management system integrated with :
+
 -Chatbot assistance (about hotel)
+
 -RegularExpressions [RegEx] which helps to dynamically store user's information in the database without making user to tick boxes.
+
 -SQLLite3 to store database
 
 GuesGenie consist of 2 backends and 1 frontend
