@@ -1,5 +1,7 @@
 # GuestGenie
 
+REMEMBER- GUESTGENIE IS HOSTED ON RENDER.COM, IF IT"S INACTIVE FOR FEW HOURS RENDER.COM HAS PENALTY OF 50-60 SECONDS OF DELAY IN ACTIONS, SO PLEASE WAIT PATIENT.
+
 GuesGenie is a dynamic hotel management system integrated with :
 
 -Chatbot assistance (about hotel)
