@@ -2,7 +2,7 @@
 
 REMEMBER- GUESTGENIE IS HOSTED ON RENDER.COM, IF IT'S INACTIVE FOR FEW HOURS RENDER.COM HAS PENALTY OF 50-60 SECONDS OF DELAY IN ACTIONS, SO PLEASE WAIT PATIENT.
 
-GuestGenie - [link](guestgenie.netlify.app)  (password : 123, username : 123)
+GuestGenie - [click here](guestgenie.netlify.app)  (password : 123, username : 123)
 
 GuesGenie is a dynamic hotel management system integrated with :
 
